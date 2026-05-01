@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ruben Lellouche 👋
 
-<!--
-**rublell/rublell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying Computer Science at EPFL, where I am developing strong foundations in programming, algorithms, computer systems, and software engineering.
 
-Here are some ideas to get you started:
+My interests mainly revolve around designing useful applications, solving technical problems, and exploring areas such as data analytics and computational modeling. I enjoy working on projects that combine clean code, structured thinking, and practical functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### [ReCHor](https://github.com/rublell/ReCHor)
+A Swiss public transport route planner built with JavaFX.
+
+### [ICoop — Fire and Water](https://github.com/rublell/ICoop-Fire-and-Water)
+A 2-player cooperative puzzle game.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Java**
+- **JavaFX**
+- **JavaScript**
+- **Python**
+- **C**
+- **Verilog**
+
+---
+
+## 📫 Contact
+
+- **Email:** [your.email@example.com]
+- **Phone:** [your phone number]
+- **LinkedIn:** [your LinkedIn profile]
+
+---
