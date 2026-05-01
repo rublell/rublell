@@ -29,8 +29,9 @@ A 2-player cooperative puzzle game.
 
 ## 📫 Contact
 
-- **Email:** [your.email@example.com]
-- **Phone:** [your phone number]
-- **LinkedIn:** [your LinkedIn profile]
+- **Email:** lelloucherub@gmail.com
+- **Email:** ruben.lellouche@epf.ch
+- **Phone:** +41 76 585 89 77
+- **LinkedIn:** https://www.linkedin.com/in/ruben-lellouche-578618317/
 
 ---
