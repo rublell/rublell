@@ -18,7 +18,7 @@ I like building software that solves concrete problems, from routing algorithms 
 <sub>Java · JavaFX · JUnit</sub>  
 Finds every Pareto-optimal journey between two Swiss stops (arrival time vs. number of transfers) with a profile-based Connection Scan Algorithm, on memory-mapped, bit-packed timetable storage. JavaFX interface with autocomplete and iCalendar / GeoJSON export.
 
-**[ML from Scratch](https://github.com/rublell/ml-from-scratch)** — predicting gaming addiction  
+**[Gaming Addiction Prediction](https://github.com/rublell/ml-from-scratch)** — ML from scratch  
 <sub>Python · NumPy · no ML libraries</sub>  
 KNN, softmax logistic regression (gradient descent) and linear regression written from scratch. 85.8% test accuracy for classification (vs 76.5% for KNN) and half the regression error of KNN (MSE 0.99 vs 1.88), with leak-free standardization and hyperparameter tuning.
 
