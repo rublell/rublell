@@ -1,6 +1,6 @@
 ## Hi, I'm Ruben Lellouche
 
-**Communication Systems student at EPFL** (BSc, expected 2028) · **Teaching Assistant** in Machine Learning and Algorithms
+**Communication Systems student at EPFL** (BSc, expected 2028) · software engineering & machine learning
 
 I like building software that solves concrete problems, from routing algorithms to machine learning, and I've led large teams outside of class.
 
@@ -32,7 +32,6 @@ Fire-and-water co-op game with enemies, items and a boss fight, built with OOP: 
 
 ### 💼 Experience
 
-**EPFL** — Teaching Assistant, Algorithms I (CS-250) and Introduction to Machine Learning (CS-233), courses of ~300 students · *since Sep 2026*  
 **BNP Paribas Group (Fintro)** — Business Intern, Regional Sales Management · *Apr 2024*  
 **European Space Agency** — Intern, Cyber Security Operations Centre (C-SOC), ESEC Redu · *Mar 2023*
 
